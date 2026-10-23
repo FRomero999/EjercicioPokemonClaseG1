@@ -1,5 +1,6 @@
 package org.example.models;
 
+import jdk.jfr.DataAmount;
 import lombok.Data;
 
 @Data
